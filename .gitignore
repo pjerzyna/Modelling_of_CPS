@@ -1,0 +1,6 @@
+# Cache Simulink
+*.slxc
+slprj/
+
+# Temporary files
+*.swp
