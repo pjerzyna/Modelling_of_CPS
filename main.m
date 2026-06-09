@@ -1,7 +1,13 @@
-m = 0.2;
-l = 0.5;
-g = 9.81;
-b = 0.4;
+kp_pend = 1;
+kd_pend = 0.1;
+ki_pend = 0.01;
+
+
+
+kp_arm = 0.3;
+kd_arm = 5;
+ki_arm = 1;
+
 
 % Link do notatek google:
 % https://docs.google.com/document/d/18R_7BUF4b25SAKLMLjVrlbADpHYMjgFTGn7Dtx8Om8U/edit?usp=sharing
