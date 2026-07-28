@@ -1,8 +1,10 @@
 # Cache Simulink
 *.slxc
+*.slx
 *.original
 slprj/
 
 # Temporary files
 *.swp
 *.autosave
+furuta.slx.original
