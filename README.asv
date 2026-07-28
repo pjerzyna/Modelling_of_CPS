@@ -18,12 +18,13 @@ The project was developed as part of the Modelling of Cyber-Physical Systems cou
 
 ## 🚀 About the project
 
-Inverted pendulum systems are a classic problem in control theory and robotics - they are nonlinear, open-loop unstable systems, and therefore require an active control system to keep the pendulum in the upright position.
+Inverted pendulum systems are a classic problem in control theory and robotics – they are nonlinear, open-loop unstable systems, and therefore require an active control system to keep the pendulum in the upright position.
 
 ## 💡 Concept & design process
 
 Before implementation, the system was analyzed on paper: identifying the double rotational movement (arm → pendulum), the control input (torque), the target states for stabilization (θ = π, ω = 0; θ = 0, ω = 0), workspace constraints, and open questions such as joint friction and moments of inertia of both components.
 
+<summary> First sketch; original concept map</summary>
 <p align="center">
   <img src="img/furuta-concepts.JPG" alt="Furuta Pendulum concept map" width="800"/>
 </p>
