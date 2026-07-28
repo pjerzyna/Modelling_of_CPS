@@ -3,5 +3,5 @@ m_pendulum = 0.405;
 l_pendulum = 0.6;
 
 
-% Link do notatek google:
-% https://docs.google.com/document/d/18R_7BUF4b25SAKLMLjVrlbADpHYMjgFTGn7Dtx8Om8U/edit?usp=sharing
+% Main Furuta model and previously created easier reference models:
+% https://github.com/pjerzyna/Modelling_of_CPS
